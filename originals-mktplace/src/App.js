@@ -102,7 +102,9 @@ function App() {
           <button className='campus-btn'>GET YOUR CAMPUS 00s</button>
         </div>
       </div>
-      <h1>BEST SELLERS</h1>
+      <div className="best-seller">
+        <h1>BEST SELLERS</h1>
+      </div>
       <div className="galery-grid">
         <div className="content">
           <img src="https://izicop.com/cdn/shop/files/snakerstoreAdidas_Gazelle_Indoor_Blue_Dawn-IG4994-0_2048x2048.png?v=1691141632" className="grid-pic" alt="" />
