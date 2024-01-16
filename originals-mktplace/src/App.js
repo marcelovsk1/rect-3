@@ -128,6 +128,36 @@ function App() {
             <button className="buy-3">BUY NOW</button>
         </div>
       </div>
+      <footer className="footer">
+        <div className="footer-container">
+          <div className="footer-row">
+          <div className="footer-col">
+              <h4></h4>
+              <ul>
+                  <li><a href="#"></a></li>
+              </ul>
+          </div>
+          <div className="footer-col">
+              <h4></h4>
+              <ul>
+                  <li><a href="#"></a></li>
+              </ul>
+          </div>
+          <div className="footer-col">
+              <h4></h4>
+              <ul>
+                  <li><a href="#"></a></li>
+              </ul>
+          </div>
+          <div className="footer-col">
+              <h4></h4>
+              <ul>
+                  <li><a href="#"></a></li>
+              </ul>
+          </div>
+          </div>
+        </div>
+      </footer>
     </main>
   );
 }
