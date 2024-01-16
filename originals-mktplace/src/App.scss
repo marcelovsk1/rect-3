@@ -646,6 +646,10 @@ body {
       width: 50px;
     }
 
+    .footer-col ul li:not(:last-child) {
+      margin-bottom: 20px;
+    }
+
     ul {
       list-style: none;
     }
