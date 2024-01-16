@@ -152,7 +152,9 @@ function App() {
           <div className="footer-col">
             <h4>Contact Us</h4>
               <ul>
-                <li><a href="#"></a></li>
+                <li><a href="#"></a>COSTUMER SERVICE</li>
+                <li><a href="#"></a>SUPPORT</li>
+                <li><a href="#"></a>ONLINE CHAT</li>
               </ul>
           </div>
           </div>
