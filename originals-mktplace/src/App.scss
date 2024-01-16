@@ -505,6 +505,7 @@ body {
   background-color: $color-primary-2;
   padding: 35px;
 
+
     .content {
       width: 20%;
       margin: 35px;
@@ -632,6 +633,20 @@ body {
           margin-bottom: 30px;
           font-weight: 500;
           position: relative;
+        }
+
+        p {
+          color: $color-primary-2;
+        }
+
+        li {
+          color: $color-primary-2;
+          cursor: pointer;
+
+          &:hover {
+            color: $color-primary;
+            transition: all 600ms;
+          }
         }
     }
 
