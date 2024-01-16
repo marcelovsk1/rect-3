@@ -141,7 +141,7 @@ function App() {
               </ul>
           </div>
           <div className="footer-col">
-            <h4>Products</h4>
+            <h4>Shop</h4>
               <ul>
                 <li><a href="#"></a>GAZZELE</li>
                 <li><a href="#"></a>SPEZIAL</li>
