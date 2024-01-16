@@ -503,7 +503,7 @@ body {
   align-items: center;
   // margin: 20px 0;
   background-color: $color-primary-2;
-  padding: 50px;
+  padding: 35px;
 
     .content {
       width: 20%;
@@ -648,6 +648,17 @@ body {
 
     .footer-col ul li:not(:last-child) {
       margin-bottom: 20px;
+    }
+
+    .footer-col ul li a {
+      font-size: 16px;
+      text-transform: capitalize;
+      color: $color-primary-2;
+      text-decoration: none;
+      font-weight: 300;
+      color: $color-primary;
+      display: block;
+      transition: all 0.3s ease;
     }
 
     ul {

@@ -103,7 +103,7 @@ function App() {
         </div>
       </div>
       <div className="best-seller">
-        <h1>BEST SELLERS</h1>
+        <h1>You might be interested</h1>
       </div>
       <div className="galery-grid">
         <div className="content">
