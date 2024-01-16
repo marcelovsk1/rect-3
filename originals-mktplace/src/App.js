@@ -132,27 +132,27 @@ function App() {
         <div className="footer-container">
           <div className="footer-row">
           <div className="footer-col">
-              <h4></h4>
+            <h4>About Originals</h4>
               <ul>
-                  <li><a href="#"></a></li>
+                <p>Created in 1997, the Adidas Originals line is one of the biggest hits of current fashion.
+                  This is because the collection of products is inspired by the period from the 40s to the 80s,
+                  bringing a retro footprint that became the darling of men and women around the world.
+                  </p>
               </ul>
           </div>
           <div className="footer-col">
-              <h4></h4>
+            <h4>Products</h4>
               <ul>
-                  <li><a href="#"></a></li>
+                <li><a href="#"></a>GAZZELE</li>
+                <li><a href="#"></a>SPEZIAL</li>
+                <li><a href="#"></a>SAMBA</li>
+                <li><a href="#"></a>CAMPUS</li>
               </ul>
           </div>
           <div className="footer-col">
-              <h4></h4>
+            <h4>Contact Us</h4>
               <ul>
-                  <li><a href="#"></a></li>
-              </ul>
-          </div>
-          <div className="footer-col">
-              <h4></h4>
-              <ul>
-                  <li><a href="#"></a></li>
+                <li><a href="#"></a></li>
               </ul>
           </div>
           </div>
